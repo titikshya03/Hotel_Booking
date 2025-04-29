@@ -3,7 +3,7 @@ package packages;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
+//This is a comment
 public class SignUpPage implements ActionListener {
 	JFrame frame;
 	JTextField tf1,tf2,tf3;
